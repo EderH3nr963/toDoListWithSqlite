@@ -33,5 +33,5 @@ Aplicativo mobile com finalidade **educacional**, desenvolvido para o aprendizad
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/EderH3nr963/apiSistemaBancario
    ```
